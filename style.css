@@ -634,7 +634,7 @@ footer ul li a:hover:after {
     display: flex;
     flex-direction: row;
     position: absolute;
-    margin-bottom: 15rem;
+    margin-bottom: 13rem;
     margin-right: -370px;
     font-size: 2rem;
   }
