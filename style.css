@@ -616,7 +616,7 @@ footer ul li a:hover:after {
   .header__image{
     position: absolute;
     width: 35%;
-    top: -40rem;
+    top: -38rem;
     right: 7rem;
   }
 
@@ -635,7 +635,7 @@ footer ul li a:hover:after {
     flex-direction: row;
     position: absolute;
     margin-bottom: 13rem;
-    margin-right: -370px;
+    margin-right: -375px;
     font-size: 2rem;
   }
 
